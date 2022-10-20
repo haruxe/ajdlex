@@ -23,7 +23,7 @@ function index() {
                     </p>
                     <p className="font-serif indent-5 tracking-wide">
                       Alan J. Droste, APLC has over 40 years of legal
-                      experience. He is AV rated under Martindale-Hubbell's
+                      experience. He is AV rated under Martindale-Hubbell&apos;s
                       peer-review legal rating system. This highest rating
                       demonstrates the top level of professional excellence and
                       legal ethics. He also has been selected as a California
