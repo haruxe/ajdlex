@@ -54,10 +54,10 @@ function Footer() {
             <div className="flex flex-col font-bold md:text-md text-sm space-y-2 mt-3">
               <h1>Mail</h1>
               <a
-                href="mailto:ad@mcqueendroste.com"
+                href="mailto:alan@ajdlex.com"
                 className="underline font-serif tracking-wide"
               >
-                ad@mcqueendroste.com
+                alan@ajdlex.com
               </a>
             </div>
             <div className="flex flex-col md:text-md text-sm space-y-2 mt-3">

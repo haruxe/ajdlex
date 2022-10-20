@@ -19,9 +19,21 @@ function index() {
                       <br /> Suite 500 Newport Beach, <br /> CA 92660
                     </div>
                     <div className="space-y-3 font-serif ">
-                      <h1 className="font-bold text-xl mt-[4rem]">Contact</h1>
-                      Alan J. Droste <br /> Direct: (949) 644-3484 <br />
+                      <h1 className="font-bold text-xl mt-[4rem]">
+                        Alan J. Droste
+                      </h1>
+                      Direct: (949) 644-3484 <br />
                       Cell: (949) 939-3484 <br />
+                      <p>
+                        {" "}
+                        E-Mail:{" "}
+                        <a
+                          href="mailto:alan@ajdlex.com"
+                          className="underline font-serif tracking-wide"
+                        >
+                          alan@ajdlex.com
+                        </a>
+                      </p>
                     </div>
                   </div>
                 </div>
