@@ -11,15 +11,15 @@ function MyApp({ Component }: AppProps) {
   return (
     <>
       <Head>
-        <meta property="og:title" content="Web3SG" key="ogtitle" />
+        <meta property="og:title" content="Alan J. Droste" key="ogtitle" />
         <meta
           property="og:description"
-          content="Bridging web2 to web3 one step at a time."
+          content="Zealous Advocacy, Creative Solutions."
           key="ogdesc"
         />
         <meta
           property="og:image"
-          content="https://i.imgur.com/rXxdwMg.png"
+          content="https://i.imgur.com/BKbNUjx.png"
           key="ogimage"
         />
         <title>Alan J. Droste</title>
