@@ -33,18 +33,19 @@ function index() {
                       senior attorney who has over 40 years of experience.
                     </p>
                     <p className="font-serif indent-5 tracking-wide">
-                      While mr. Droste has a wide range of experience,
+                      While Mr. Droste has a wide range of experience,
                       litigation practice focuses on business and real estate
                       matters.
                     </p>
                     <p className="font-serif indent-5 tracking-wide">
-                      We believe that aggressive representation is the best way
-                      to get you the results you expect in a negotiation,
-                      arbitration, or trial, and we put that belief into action
-                      every day. By showing our adversaries we are prepared for
-                      trial, we achieve far better settlements than attorneys
-                      who take cases merely to settle them. If your case does go
-                      to trial, we have a proven record of success.
+                      Mr. Droste believes that aggressive representation is the
+                      best way to get you the results you expect in a
+                      negotiation, arbitration, or trial, and he puts that
+                      belief into action every day. By showing adversaries he is
+                      prepared for trial, he achieves far better settlements
+                      than attorneys who take cases merely to settle them. If
+                      your case does go to trial, Mr. Droste has a proven record
+                      of success.
                     </p>
                   </div>
                 </div>
