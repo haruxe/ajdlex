@@ -7,7 +7,7 @@ function index() {
       <div className="mx-auto my-auto flex">
         <div className="mx-auto flex flex-col">
           <div className="max-w-[1100px] p-6 text-black flex flex-col mx-auto place-content-between">
-            <h1 className="text-5xl font-bold mb-[8rem]">COUNSEL</h1>
+            <h1 className="text-5xl font-bold md:mb-[8rem] mb-10">COUNSEL</h1>
             {/* <div className="h-[2px] bg-black w-[6rem] my-4 mb-[10rem]" /> */}
             <div className="flex md:flex-row flex-col">
               <div className="flex flex-col md:w-2/3">
