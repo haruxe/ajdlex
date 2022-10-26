@@ -77,7 +77,7 @@ const Home: NextPage = () => {
               indicators={(i) => (
                 //@ts-ignore
                 <div className="indicator text-white mx-3 hover:bg-gray-700 px-5 duration-300 cursor-pointer rounded-full">
-                  {i ? i + 1 : ""}
+                  {i ? i + 1 : "1"}
                 </div>
               )}
             >
