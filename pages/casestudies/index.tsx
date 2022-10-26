@@ -61,20 +61,7 @@ function index() {
                   </div>
                 </div>
               </div>
-              <div className="place-content-center space-y-10 my-auto place-items-center md:mt-0 mt-10">
-                <div className="relative place-content-center flex md:w-[400px] w-full md:ml-10 mx-auto my-auto md:my-auto mb-5 ">
-                  <Image
-                    src={"/images/droste-location.jpg"}
-                    alt={"placeholder"}
-                    width={"484"}
-                    height={"322"}
-                    className="flex ml-auto"
-                  />
-
-                  {/* <h1 className="absolute bottom-5 right-5 font-bold text-md md:text-2xl bg-opacity-40 backdrop-blur-2xl text-black bg-white shadow-3xl px-2 py-1 rounded-md font-righteous">
-                  Location
-                </h1> */}
-                </div>
+              <div className="place-content-center space-y-10 my-auto place-items-center md:mt-0 mt-10 md:ml-10">
                 <div className="relative place-content-center flex md:w-[300px] w-2/3 my-auto md:my-auto mx-auto">
                   <Image
                     src={"/images/martindale.png"}

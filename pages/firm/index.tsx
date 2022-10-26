@@ -21,20 +21,21 @@ function index() {
                       practicing at a large international law firm, handling
                       commercial litigation for publicly traded companies,
                       small, medium and large private companies, entrepreneurs
-                      and high net-worth individuals. Today, we bring our
+                      and high net-worth individuals. Today, he brings his
                       big-firm expertise and experience to a small-firm
-                      environment where we can charge less for personalized,
+                      environment where he can charge less for personalized,
                       high-quality legal services.
                     </p>
                     <p className="font-serif indent-5 tracking-wide">
                       At Alan J. Droste, APLC, your important legal matter will
                       not be delegated to less experienced associates, as often
                       happens at other firms. Instead you will work with a
-                      senior attorney who has over 30 years of experience.
+                      senior attorney who has over 40 years of experience.
                     </p>
                     <p className="font-serif indent-5 tracking-wide">
-                      While we have a wide range of experience, our litigation
-                      practice focuses on business and real estate matters.
+                      While mr. Droste has a wide range of experience,
+                      litigation practice focuses on business and real estate
+                      matters.
                     </p>
                     <p className="font-serif indent-5 tracking-wide">
                       We believe that aggressive representation is the best way
@@ -51,10 +52,10 @@ function index() {
               <div className="place-content-center space-y-10 my-auto place-items-center md:mt-0 mt-10">
                 <div className="relative place-content-center flex md:w-[400px] w-full md:ml-10 mx-auto my-auto md:my-auto mb-5 ">
                   <Image
-                    src={"/images/droste-location.jpg"}
+                    src={"/images/newport3.jpg"}
                     alt={"placeholder"}
-                    width={"484"}
-                    height={"322"}
+                    width={"1925"}
+                    height={"1211"}
                     className="flex ml-auto"
                   />
 

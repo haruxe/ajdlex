@@ -70,6 +70,16 @@ const Home: NextPage = () => {
               nextArrow={
                 <RightArrowAlt className="w-9 bg-white shadow-3xl rounded-full p-1 mr-2 shadow-3xl" />
               }
+              arrows={false}
+              transitionDuration={1000}
+              autoplay={true}
+              easing="ease"
+              indicators={(i) => (
+                //@ts-ignore
+                <div className="indicator text-white mx-3 hover:bg-gray-700 px-5 duration-300 cursor-pointer rounded-full">
+                  {i ? i + 1 : ""}
+                </div>
+              )}
             >
               {data.map((i, key) => (
                 <div
@@ -109,7 +119,7 @@ const Home: NextPage = () => {
                   <h1 className="mx-auto  text-xl">Business Litigation</h1>
                   <div className="">
                     <Image
-                      src={"/images/lawsuit.jpg"}
+                      src={"/images/gavel.jpg"}
                       alt={"placeholder"}
                       layout="intrinsic"
                       width={"300px"}
@@ -124,7 +134,7 @@ const Home: NextPage = () => {
                   </h1>
                   <div className="">
                     <Image
-                      src={"/images/gavel.jpg"}
+                      src={"/images/adr.png"}
                       alt={"placeholder"}
                       layout="intrinsic"
                       width={"300px"}
@@ -133,7 +143,7 @@ const Home: NextPage = () => {
                     />
                   </div>
                 </div>
-                <div className="bg-black p-6 mx-auto place-content-center place-items-center flex flex-col space-y-10">
+                {/* <div className="bg-black p-6 mx-auto place-content-center place-items-center flex flex-col space-y-10">
                   <h1 className="mx-auto text-xl">Real Estate Finance</h1>
                   <div className="">
                     <Image
@@ -145,7 +155,7 @@ const Home: NextPage = () => {
                       className="flex mx-auto rounded-sm grayscale-[50%] "
                     />
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
