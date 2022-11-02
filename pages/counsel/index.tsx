@@ -18,14 +18,9 @@ function index() {
                     </h1>
                     <div className="space-y-1">
                       <p className="font-serif indent-5 tracking-wide">
-                        Mr. Droste has over 40 years of legal experience. He is
-                        AV rated under Martindale-Hubbell&apos;s peer-review
-                        legal rating system. This highest rating demonstrates
-                        the top level of professional excellence and legal
-                        ethics. He also has been selected as a California Super
-                        Lawyer. Mr. Droste&apos;s litigation practice over 30
-                        years encompasses a wide range of complex commercial and
-                        real estate matters.
+                        Mr. Droste&apos;s litigation practice over 40 years
+                        encompasses a wide range of complex commercial and real
+                        estate matters.
                       </p>
                       <p className="font-serif indent-5 tracking-wide">
                         Mr. Droste represents businesses, developers, borrowers,
@@ -104,9 +99,7 @@ function index() {
                       1978
                       <br />
                     </p>
-                    <h1 className="text-xl font-bold font-serif">
-                      Awards and Memberships
-                    </h1>
+                    <h1 className="text-xl font-bold font-serif">Awards</h1>
                     <p className="font-serif tracking-wide leading-10">
                       Martindale peer-rated A/V Preeminent
                       <br />
@@ -115,7 +108,7 @@ function index() {
                       <br />
                     </p>
                     <h1 className="text-xl font-bold font-serif">
-                      Admitted to practice
+                      Admitted to practice in 1982
                     </h1>
                     <p className="font-serif tracking-wide leading-10">
                       State of California, SBN 105616

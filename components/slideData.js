@@ -6,8 +6,8 @@ export const data = [
   },
   {
     image: "/images/court.jpg",
-    title: "Litigating State, Federal and ADR Clients",
-    desc: "Mr. Droste's litigation experience includes substantial matters in California state and federal courts, as well as including mediation and arbitration.",
+    title: "Litigating State, Federal and ADR",
+    desc: "Mr. Droste's litigation experience includes substantial matters in California state and federal courts, as well as mediation and arbitration.",
   },
   {
     image: "/images/efficient.jpg",
