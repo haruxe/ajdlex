@@ -1,7 +1,22 @@
 import Image from "next/image";
 import React from "react";
+import GoogleMapReact from "google-map-react";
 
 function index() {
+  //@ts-ignore
+  const AnyReactComponent = ({ text }) => <div>{text}</div>;
+  //@ts-ignore
+  const Map = () => (
+    <div className="map">
+      <h2 className="map-h2">Come Visit Us At Our Campus</h2>
+
+      <div className="google-map">
+        <GoogleMapReact bootstrapURLKeys={{ key: "" }} defaultCenter={location}>
+          <AnyReactComponent lat={59.955413} lng={30.337844} text="My Marker" />
+        </GoogleMapReact>
+      </div>
+    </div>
+  );
   return (
     <div className="md:mb-[14rem] mt-5 place-content-center flex flex-col">
       <div className="mx-auto my-auto flex">
@@ -17,8 +32,8 @@ function index() {
                       <h1 className="font-bold text-xl md:mt-[4rem]">
                         Location
                       </h1>
-                      450 Newport Center Drive,
-                      <br /> Suite 500 Newport Beach, <br /> CA 92660
+                      1001 Dove Street
+                      <br /> Suite 250 Newport Beach, <br /> CA 92660
                     </div>
                     <div className="space-y-3 font-serif ">
                       <h1 className="font-bold text-xl mt-[4rem]">

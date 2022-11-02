@@ -30,7 +30,7 @@ function Footer() {
               </Link>
             </div>
             <h1 className="text-sm text-left font-serif">
-              © Copyright 2017 - Alan J. Droste, APLC
+              © Copyright 2022 - Alan J. Droste, APLC
             </h1>
           </div>
         </div>
@@ -43,7 +43,7 @@ function Footer() {
               <Link href="/">Home</Link>
               <Link href="/firm">Firm</Link>
               <Link href="/counsel">Counsel</Link>
-              <Link href="/practice">Practice Areas</Link>
+              <Link href="/casestudies">Case Studies</Link>
               <Link href="/contact">Contact</Link>
               {/* <Link href="/join">Join Us</Link> */}
             </div>
@@ -63,8 +63,8 @@ function Footer() {
             <div className="flex flex-col md:text-md text-sm space-y-2 mt-3">
               <h1 className="font-bold">Location</h1>
               <p className="font-serif tracking-wide">
-                450 Newport Center Drive,
-                <br /> Suite 500 Newport Beach,
+                1001 Dove Street
+                <br /> Suite 250 Newport Beach,
                 <br /> CA 92660
               </p>
             </div>
